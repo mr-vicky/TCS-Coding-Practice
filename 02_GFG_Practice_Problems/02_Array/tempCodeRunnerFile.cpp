@@ -1,2 +1,1 @@
-
-            cout << endl;
+j = i
